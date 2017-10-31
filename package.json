@@ -1,0 +1,29 @@
+{
+  "name": "ims_cviko7",
+  "version": "1.0.0",
+  "description": "vytvoreny botik",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "json": "^9.0.6",
+    "npm": "^3.10.10",
+    "restify": "^6.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonycek/IMS_cviko7.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonycek/IMS_cviko7/issues"
+  },
+  "homepage": "https://github.com/Tonycek/IMS_cviko7#readme"
+}
